@@ -9,4 +9,4 @@ All credits of usage and assets come from OMOCAT, and innapropriately reuploadin
 
 
 
-Best wishes to everyone! (THIS JS REMAKE WAS MADE WITH RPGMAKER MV)
+Best wishes to everyone! (THIS JS REMAKE WAS MADE WITH RPGMAKER VX ACE)
